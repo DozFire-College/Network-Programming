@@ -1,8 +1,0 @@
-E:\govno\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
-E:\govno\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
-E:\govno\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
-E:\govno\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
-E:\govno\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
-E:\govno\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
-E:\govno\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
-E:\govno\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe.config
