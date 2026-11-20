@@ -1,0 +1,7 @@
+E:\govno\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+E:\govno\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+E:\govno\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+E:\govno\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+E:\govno\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+E:\govno\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+E:\govno\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
